@@ -1,1 +1,4 @@
-My first post.
+---
+title: "最初の投稿"
+date: 2022-05-14
+---
